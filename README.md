@@ -11,6 +11,5 @@ Protobuf : https://developers.google.com/protocol-buffers/
 Restful : https://ko.wikipedia.org/wiki/REST  
 Language : Python, Go  
 
-### [ Concept ]
-
+### [ Concept ]  
 ![Concept](https://github.com/unipark00/Microservice/blob/master/microservice.jpg?raw=true "Microservice concept")
